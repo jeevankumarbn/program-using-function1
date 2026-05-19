@@ -1,1 +1,4 @@
-# program-using-function1
+def greet():
+    print("Hello World")
+
+greet()
